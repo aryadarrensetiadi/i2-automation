@@ -1,0 +1,135 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e6]:
+      - navigation [ref=e10]:
+        - generic [ref=e11]:
+          - img "Logo" [ref=e13] [cursor=pointer]
+          - generic [ref=e14]:
+            - list [ref=e15]:
+              - listitem [ref=e16]:
+                - generic [ref=e17] [cursor=pointer]: Who We Are
+              - listitem [ref=e18]:
+                - generic [ref=e19] [cursor=pointer]: Strategic Framework
+              - listitem [ref=e20]:
+                - generic [ref=e21] [cursor=pointer]: Product
+              - listitem [ref=e22]:
+                - generic [ref=e23] [cursor=pointer]: Careers
+              - listitem [ref=e24]:
+                - generic [ref=e25] [cursor=pointer]: News
+              - listitem [ref=e26]:
+                - generic [ref=e27] [cursor=pointer]: i2 Academy
+            - generic [ref=e28]:
+              - button [ref=e29] [cursor=pointer]:
+                - img [ref=e30]
+              - generic [ref=e32]:
+                - text: "|"
+                - link "English" [ref=e33] [cursor=pointer]:
+                  - /url: "#"
+      - generic [ref=e35]:
+        - heading "Working at the heart of change" [level=1] [ref=e36]
+        - paragraph [ref=e37]: A place where you grow, learn, and forge meaningful connections.
+        - button "Learn More" [active] [ref=e38] [cursor=pointer]:
+          - text: Learn More
+          - img [ref=e39]
+    - generic [ref=e44]:
+      - generic [ref=e45]:
+        - generic [ref=e46]: Open Positions
+        - heading "We're Looking for Talented People" [level=4] [ref=e47]
+        - paragraph [ref=e48]: 3 jobs available in all position and in all location
+      - generic [ref=e49]:
+        - generic [ref=e51]:
+          - img [ref=e53]
+          - textbox "Search Job..." [ref=e55]
+        - combobox [ref=e57]:
+          - option "All Position" [selected]
+          - option "AI Researcher"
+          - option "Full Stack Developer"
+          - option "Data Engineer"
+        - combobox [ref=e59]:
+          - option "All Location" [selected]
+          - option "South Tangerang"
+      - generic [ref=e61]:
+        - generic [ref=e62]:
+          - generic [ref=e63]:
+            - generic [ref=e64]: Strategic
+            - generic [ref=e65]: Available
+          - generic [ref=e66]:
+            - heading "AI Researcher" [level=4] [ref=e67]
+            - paragraph [ref=e68]: We’are Looking mid-level AI Researcher to join our team
+          - generic [ref=e69]:
+            - generic [ref=e70]:
+              - img [ref=e71]
+              - paragraph [ref=e75]: South Tangerang
+            - generic [ref=e76]:
+              - img [ref=e77]
+              - paragraph [ref=e80]: Full Time
+        - generic [ref=e81]:
+          - generic [ref=e82]:
+            - generic [ref=e83]: Programmer
+            - generic [ref=e84]: Available
+          - generic [ref=e85]:
+            - heading "Full Stack Developer" [level=4] [ref=e86]
+            - paragraph [ref=e87]: We’are looking junior-level Full Stack Developer to join our team
+          - generic [ref=e88]:
+            - generic [ref=e89]:
+              - img [ref=e90]
+              - paragraph [ref=e94]: South Tangerang
+            - generic [ref=e95]:
+              - img [ref=e96]
+              - paragraph [ref=e99]: Contract
+        - generic [ref=e100]:
+          - generic [ref=e101]:
+            - generic [ref=e102]: Data
+            - generic [ref=e103]: Available
+          - generic [ref=e104]:
+            - heading "Data Engineer" [level=4] [ref=e105]
+            - paragraph [ref=e106]: We’are looking junior-level Data Engineer to join our team
+          - generic [ref=e107]:
+            - generic [ref=e108]:
+              - img [ref=e109]
+              - paragraph [ref=e113]: South Tangerang
+            - generic [ref=e114]:
+              - img [ref=e115]
+              - paragraph [ref=e118]: Contract
+    - generic [ref=e121]:
+      - generic [ref=e125]:
+        - generic [ref=e126]:
+          - img [ref=e127]
+          - paragraph [ref=e128]: We empower to revolutionize decision making, enabling you to confidently and precisely navigate challenges.
+        - generic [ref=e130]:
+          - heading "Quick Link" [level=3] [ref=e131]
+          - generic [ref=e132]:
+            - paragraph [ref=e133] [cursor=pointer]: Who We Are
+            - paragraph [ref=e134] [cursor=pointer]: Strategic Framework
+            - paragraph [ref=e135] [cursor=pointer]: Product
+            - paragraph [ref=e136] [cursor=pointer]: Insight
+            - paragraph [ref=e137] [cursor=pointer]: i2 Academy
+        - generic [ref=e139]:
+          - heading "Company" [level=3] [ref=e140]
+          - generic [ref=e141]:
+            - paragraph [ref=e142] [cursor=pointer]: Careers
+            - paragraph [ref=e143]: Terms Of Service
+        - generic [ref=e145]:
+          - heading "Contact Us" [level=3] [ref=e146]
+          - generic [ref=e147]:
+            - generic [ref=e148]:
+              - img [ref=e149]
+              - paragraph [ref=e150]: 021-5270669
+            - generic [ref=e151]:
+              - img [ref=e152]
+              - paragraph [ref=e153]: admin@indonesiaindicator.com
+            - generic [ref=e154]:
+              - img [ref=e155]
+              - paragraph [ref=e156]: Menara Sudirman Lantai 19 Lot. A Jl. Jend. Sudirman Kav 60, Jakarta Selatan, 12190Menara Sudirman Lantai 19 Lot. A Jl. Jend. Sudirman Kav 60, Jakarta Selatan, 12190
+      - generic [ref=e159]:
+        - paragraph [ref=e160]: © 2024 Indonesia Indicator. All rights reserved.
+        - generic [ref=e162]:
+          - img [ref=e164]
+          - img [ref=e169]
+          - img [ref=e172]
+          - img [ref=e175]
+  - alert [ref=e177]
+```

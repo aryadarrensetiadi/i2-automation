@@ -1,0 +1,372 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e6]:
+      - navigation [ref=e10]:
+        - generic [ref=e11]:
+          - img "Logo" [ref=e13] [cursor=pointer]
+          - generic [ref=e14]:
+            - list [ref=e15]:
+              - listitem [ref=e16]:
+                - generic [ref=e17] [cursor=pointer]: Who We Are
+              - listitem [ref=e18]:
+                - generic [ref=e19] [cursor=pointer]: Strategic Framework
+              - listitem [ref=e20]:
+                - generic [ref=e21] [cursor=pointer]: Product
+              - listitem [ref=e22]:
+                - generic [ref=e23] [cursor=pointer]: News
+              - listitem [ref=e24]:
+                - generic [ref=e25] [cursor=pointer]: Careers
+              - listitem [ref=e26]:
+                - generic [ref=e27] [cursor=pointer]: i2 Academy
+            - generic [ref=e28]:
+              - button [active] [ref=e29] [cursor=pointer]:
+                - img [ref=e30]
+              - generic [ref=e32]:
+                - text: "|"
+                - link "English" [ref=e33] [cursor=pointer]:
+                  - /url: "#"
+      - generic [ref=e35]:
+        - generic [ref=e36]:
+          - heading "Unlocking Better" [level=1] [ref=e37]
+          - img [ref=e38]
+          - heading "Decision Making" [level=1] [ref=e40]
+        - paragraph [ref=e41]: We harness the power of We harness the power of Big Data, Data Science, and Generative AI to drive transformation and unlock new opportunities. Our cutting-edge analytics reveal hidden patterns, optimize processes, and deliver predictive insights, revolutionizing decision making process.
+        - generic [ref=e42] [cursor=pointer]: Learn More
+    - generic [ref=e47]:
+      - generic [ref=e49]:
+        - generic [ref=e50]: 11+
+        - paragraph [ref=e51]: Years of Experience
+      - generic [ref=e53]:
+        - generic [ref=e54]: 100+
+        - paragraph [ref=e55]: Strategic Analysts
+      - generic [ref=e57]:
+        - generic [ref=e58]: 1.500+
+        - paragraph [ref=e59]: Servers in 3 Data Center
+      - generic [ref=e61]:
+        - generic [ref=e62]: 1.000+
+        - paragraph [ref=e63]: Client Served
+    - generic [ref=e69]:
+      - generic [ref=e70]:
+        - paragraph [ref=e71]: Leader in Strategic Intelligence
+        - paragraph [ref=e72]: With more than decades of experience built on customer commitment and trust, Indonesia Indicator (i2) has established its position as a leader in Strategic Intelligence. We collect real-time data from key sources, transforming it into valuable and measurable strategic assets. Our team of expert advisors helps you navigate the complexities of information to make quick and accurate decisions.
+        - button "Learn More" [ref=e73] [cursor=pointer]:
+          - generic [ref=e74]: Learn More
+          - img [ref=e75]
+      - img [ref=e78]
+    - iframe [ref=e84]:
+      - generic "YouTube Video Player" [ref=f1e3]:
+        - generic [ref=f1e5]:
+          - link "Photo image of Liputan6" [ref=f1e8] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UC1QpnGo11epfexw1bIiTHTg?embeds_referring_euri=https%3A%2F%2Findonesiaindicator.com%2F
+          - 'link "Capres Live di Medsos, Indonesia Indicator: Potensi Besar Raup Suara Gen Z dan Milenial | POV part 2" [ref=f1e11] [cursor=pointer]':
+            - /url: https://www.youtube.com/watch?v=YpxKIT3YjkM
+          - button "Share" [ref=f1e13] [cursor=pointer]:
+            - generic [ref=f1e14]:
+              - img
+            - generic [ref=f1e15]: Share
+        - button "Play" [ref=f1e18] [cursor=pointer]:
+          - img
+        - link "Watch on YouTube" [ref=f1e19] [cursor=pointer]:
+          - /url: https://www.youtube.com/watch?v=YpxKIT3YjkM&embeds_referring_euri=https%3A%2F%2Findonesiaindicator.com%2F
+          - generic [ref=f1e20]: Watch on
+          - generic [ref=f1e21]:
+            - img
+    - generic [ref=e89]:
+      - paragraph [ref=e91]: Comprehensive Approach to Decision Making
+      - generic [ref=e92]:
+        - img [ref=e94]
+        - generic [ref=e96]:
+          - generic [ref=e97]:
+            - generic [ref=e98] [cursor=pointer]:
+              - generic [ref=e99]: Strategic Level
+              - generic [ref=e100]: "-"
+            - paragraph [ref=e102]: Empower top-level decision makers with multimodal capabilities. Integrate generative AI into your mobile platform for real-time data and recommendations,
+          - generic [ref=e104] [cursor=pointer]:
+            - generic [ref=e105]: Analytics Level
+            - generic [ref=e106]: +
+          - generic [ref=e108] [cursor=pointer]:
+            - generic [ref=e109]: Data & Application Level
+            - generic [ref=e110]: +
+    - generic [ref=e115]:
+      - generic [ref=e116]:
+        - paragraph [ref=e117]: News Update
+        - link "See All" [ref=e118] [cursor=pointer]:
+          - /url: news
+      - generic [ref=e119]:
+        - generic [ref=e121]:
+          - link [ref=e122] [cursor=pointer]:
+            - /url: https://leisure.harianjogja.com/read/2024/12/31/508/1199494/ini-media-sosial-paling-populer-2024-hasil-riset-indonesia-indicator
+          - generic [ref=e123]:
+            - paragraph [ref=e126]: 31 Des 2024
+            - paragraph [ref=e127]: Ini Media Sosial Paling Populer 2024 Hasil Riset Indonesia Indicator
+            - link "Read More" [ref=e128] [cursor=pointer]:
+              - /url: https://leisure.harianjogja.com/read/2024/12/31/508/1199494/ini-media-sosial-paling-populer-2024-hasil-riset-indonesia-indicator
+              - generic [ref=e129]:
+                - generic [ref=e130]: Read More
+                - img [ref=e131]
+        - generic [ref=e134]:
+          - link [ref=e135] [cursor=pointer]:
+            - /url: https://www.ntvnews.id/ekonomi/0129559/tiktok-jadi-platform-media-sosial-paling-populer-2024-di-indonesia
+          - generic [ref=e136]:
+            - paragraph [ref=e139]: 31 Des 2024
+            - paragraph [ref=e140]: Riset dari Indonesia Indicator (I2) mengungkapkan bahwa TikTok merupakan platform media sosial paling populer dan paling banyak mendapat tanggapan dari warganet sepanjang 2024.
+            - link "Read More" [ref=e141] [cursor=pointer]:
+              - /url: https://www.ntvnews.id/ekonomi/0129559/tiktok-jadi-platform-media-sosial-paling-populer-2024-di-indonesia
+              - generic [ref=e142]:
+                - generic [ref=e143]: Read More
+                - img [ref=e144]
+        - generic [ref=e147]:
+          - link [ref=e148] [cursor=pointer]:
+            - /url: https://www.merahputih.com/post/read/tiktok-platform-paling-hits-2024-menurut-riset-indonesia-indicator
+          - generic [ref=e149]:
+            - paragraph [ref=e152]: 31 Des 2024
+            - paragraph [ref=e153]: TikTok Platform Paling Hits 2024, Menurut Riset Indonesia Indicator
+            - link "Read More" [ref=e154] [cursor=pointer]:
+              - /url: https://www.merahputih.com/post/read/tiktok-platform-paling-hits-2024-menurut-riset-indonesia-indicator
+              - generic [ref=e155]:
+                - generic [ref=e156]: Read More
+                - img [ref=e157]
+        - generic [ref=e160]:
+          - link [ref=e161] [cursor=pointer]:
+            - /url: https://rm.id/baca-berita/nasional/249201/tren-medsos-di-indonesia-2024-tiktok-jadi-platform-paling-populer
+          - generic [ref=e162]:
+            - paragraph [ref=e165]: 30 Des 2024
+            - paragraph [ref=e166]: Riset yang dilakukan Indonesia Indicator (I2) dengan menggunakan sistem Intelligence Socio Analytic (ISA) mencatat, total postingan netizen Indonesia sepanjang 1 Januari hingga 21 Desember 2024 pada lima platform media sosial utama mencapai 353.828.143.
+            - link "Read More" [ref=e167] [cursor=pointer]:
+              - /url: https://rm.id/baca-berita/nasional/249201/tren-medsos-di-indonesia-2024-tiktok-jadi-platform-paling-populer
+              - generic [ref=e168]:
+                - generic [ref=e169]: Read More
+                - img [ref=e170]
+        - generic [ref=e173]:
+          - link [ref=e174] [cursor=pointer]:
+            - /url: https://www.liputan6.com/news/read/5764704/analisis-indonesia-indicator-pramono-rano-unggul-dalam-debat-kedua-pilgub-dki-jakarta-2024?page=2
+          - generic [ref=e175]:
+            - paragraph [ref=e178]: 27 Oktober 2024
+            - paragraph [ref=e179]: "Analisis Indonesia Indicator: Pramono-Rano Unggul dalam Debat Kedua Pilgub DKI Jakarta 2024"
+            - link "Read More" [ref=e180] [cursor=pointer]:
+              - /url: https://www.liputan6.com/news/read/5764704/analisis-indonesia-indicator-pramono-rano-unggul-dalam-debat-kedua-pilgub-dki-jakarta-2024?page=2
+              - generic [ref=e181]:
+                - generic [ref=e182]: Read More
+                - img [ref=e183]
+        - generic [ref=e186]:
+          - link [ref=e187] [cursor=pointer]:
+            - /url: https://www.cnnindonesia.com/teknologi/20240205203757-192-1059027/indonesia-indicator-netizen-kecewa-debat-adem-ayem
+          - generic [ref=e188]:
+            - paragraph [ref=e191]: 05 Februari 2024
+            - paragraph [ref=e192]: "Indonesia Indicator: Netizen Kecewa Debat Adem Ayem"
+            - link "Read More" [ref=e193] [cursor=pointer]:
+              - /url: https://www.cnnindonesia.com/teknologi/20240205203757-192-1059027/indonesia-indicator-netizen-kecewa-debat-adem-ayem
+              - generic [ref=e194]:
+                - generic [ref=e195]: Read More
+                - img [ref=e196]
+        - generic [ref=e199]:
+          - link [ref=e200] [cursor=pointer]:
+            - /url: https://www.economist.com/asia/2024/02/01/tiktok-is-a-key-battleground-in-indonesias-election
+          - generic [ref=e201]:
+            - paragraph [ref=e204]: 01 Februari 2024
+            - paragraph [ref=e205]: TikTok is a key battleground in Indonesia’s election
+            - link "Read More" [ref=e206] [cursor=pointer]:
+              - /url: https://www.economist.com/asia/2024/02/01/tiktok-is-a-key-battleground-in-indonesias-election
+              - generic [ref=e207]:
+                - generic [ref=e208]: Read More
+                - img [ref=e209]
+        - generic [ref=e212]:
+          - link [ref=e213] [cursor=pointer]:
+            - /url: https://www.radaronline.id/2023/09/05/muluskan-program-smart-city-indonesia-indicator-tawarkan-kerjasama-it-dengan-pemkab-sukabumi/
+          - generic [ref=e214]:
+            - paragraph [ref=e217]: 05 September 2023
+            - paragraph [ref=e218]: Muluskan Program Smart City, Indonesia Indicator Tawarkan Kerjasama IT Dengan Pemkab Sukabumi
+            - link "Read More" [ref=e219] [cursor=pointer]:
+              - /url: https://www.radaronline.id/2023/09/05/muluskan-program-smart-city-indonesia-indicator-tawarkan-kerjasama-it-dengan-pemkab-sukabumi/
+              - generic [ref=e220]:
+                - generic [ref=e221]: Read More
+                - img [ref=e222]
+        - generic [ref=e225]:
+          - link [ref=e226] [cursor=pointer]:
+            - /url: https://jogja.suara.com/read/2023/05/06/180000/komunikasi-indonesia-indicator-saat-menghadapi-krisis-perusahaan-harus-fokus-mengendalikan-arah-pemberitaan
+          - generic [ref=e227]:
+            - paragraph [ref=e230]: 06 Mei 2023
+            - paragraph [ref=e231]: "Komunikasi Indonesia Indicator: Saat Menghadapi Krisis, Perusahaan harus Fokus Mengendalikan Arah Pemberitaan"
+            - link "Read More" [ref=e232] [cursor=pointer]:
+              - /url: https://jogja.suara.com/read/2023/05/06/180000/komunikasi-indonesia-indicator-saat-menghadapi-krisis-perusahaan-harus-fokus-mengendalikan-arah-pemberitaan
+              - generic [ref=e233]:
+                - generic [ref=e234]: Read More
+                - img [ref=e235]
+        - generic [ref=e238]:
+          - link [ref=e239] [cursor=pointer]:
+            - /url: https://www.alinea.id/daerah/diskominfo-sulsel-gandeng-i2-perkuat-monitoring-isu-publik-b2hKz9JW6
+          - generic [ref=e240]:
+            - paragraph [ref=e243]: 26 Januari 2023
+            - paragraph [ref=e244]: Diskominfo-SP Sulsel gandeng Indonesia Indicator perkuat monitoring isu publik
+            - link "Read More" [ref=e245] [cursor=pointer]:
+              - /url: https://www.alinea.id/daerah/diskominfo-sulsel-gandeng-i2-perkuat-monitoring-isu-publik-b2hKz9JW6
+              - generic [ref=e246]:
+                - generic [ref=e247]: Read More
+                - img [ref=e248]
+        - generic [ref=e251]:
+          - link [ref=e252] [cursor=pointer]:
+            - /url: https://era.id/megapolitan/84221/indonesia-indicator-sebut-anies-baswedan-gubernur-terpopuler-dan-paling-berpengaruh-pada-2021
+          - generic [ref=e253]:
+            - paragraph [ref=e256]: 31 Desember 2021
+            - paragraph [ref=e257]: Indonesia Indicator Sebut Anies Baswedan Gubernur Terpopuler dan Paling Berpengaruh pada 2021
+            - link "Read More" [ref=e258] [cursor=pointer]:
+              - /url: https://era.id/megapolitan/84221/indonesia-indicator-sebut-anies-baswedan-gubernur-terpopuler-dan-paling-berpengaruh-pada-2021
+              - generic [ref=e259]:
+                - generic [ref=e260]: Read More
+                - img [ref=e261]
+        - generic [ref=e264]:
+          - link [ref=e265] [cursor=pointer]:
+            - /url: https://news.detik.com/berita/d-5877700/bima-arya-jadi-walkot-paling-berpengaruh-2021-versi-indonesia-indicator
+          - generic [ref=e266]:
+            - paragraph [ref=e269]: 30 Desember 2021
+            - paragraph [ref=e270]: Bima Arya Jadi Walkot Paling Berpengaruh 2021 Versi Indonesia Indicator
+            - link "Read More" [ref=e271] [cursor=pointer]:
+              - /url: https://news.detik.com/berita/d-5877700/bima-arya-jadi-walkot-paling-berpengaruh-2021-versi-indonesia-indicator
+              - generic [ref=e272]:
+                - generic [ref=e273]: Read More
+                - img [ref=e274]
+        - generic [ref=e277]:
+          - link [ref=e278] [cursor=pointer]:
+            - /url: https://jateng.antaranews.com/berita/424821/indonesia-indicator-gibran-wali-kota-terpopuler-2021
+          - generic [ref=e279]:
+            - paragraph [ref=e282]: 30 Desember 2021
+            - paragraph [ref=e283]: "Indonesia Indicator: Gibran wali kota terpopuler 2021"
+            - link "Read More" [ref=e284] [cursor=pointer]:
+              - /url: https://jateng.antaranews.com/berita/424821/indonesia-indicator-gibran-wali-kota-terpopuler-2021
+              - generic [ref=e285]:
+                - generic [ref=e286]: Read More
+                - img [ref=e287]
+    - generic [ref=e294]:
+      - generic [ref=e295]:
+        - heading "i2 Academy" [level=1] [ref=e296]
+        - paragraph [ref=e297]: We empower the next generation of leaders with cutting-edge programs that inspire and transform. Join our vibrant community to nurture your potential and drive progress forward!
+        - button "Learn More" [ref=e298] [cursor=pointer]:
+          - generic [ref=e299]: Learn More
+          - img [ref=e300]
+      - generic [ref=e302]:
+        - generic [ref=e303]:
+          - generic [ref=e305]:
+            - img [ref=e307]
+            - generic [ref=e308]:
+              - paragraph [ref=e310]: Universitas Padjajaran
+              - paragraph [ref=e311]: Sharing Big Data Usage on Communication Studies.
+              - generic [ref=e312] [cursor=pointer]:
+                - generic [ref=e313]: Read More
+                - img [ref=e314]
+          - generic [ref=e317]:
+            - img [ref=e319]
+            - generic [ref=e320]:
+              - paragraph [ref=e322]: Universitas Padjajaran
+              - paragraph [ref=e323]: Introducing Big Data and AI in Public Policy Transformation
+              - generic [ref=e324] [cursor=pointer]:
+                - generic [ref=e325]: Read More
+                - img [ref=e326]
+          - generic [ref=e329]:
+            - img [ref=e331]
+            - generic [ref=e332]:
+              - paragraph [ref=e334]: Universitas Padjajaran
+              - paragraph [ref=e335]: Application of Big Data and AI in International Relations Studies
+              - generic [ref=e336] [cursor=pointer]:
+                - generic [ref=e337]: Read More
+                - img [ref=e338]
+        - generic [ref=e343]:
+          - button [ref=e344] [cursor=pointer]:
+            - img [ref=e345]
+          - button [ref=e347] [cursor=pointer]:
+            - img [ref=e348]
+    - generic [ref=e354]:
+      - heading "Trusted by local and global organization" [level=2] [ref=e356]
+      - generic [ref=e357]:
+        - generic [ref=e358]:
+          - img [ref=e359]
+          - img [ref=e360]
+          - img [ref=e361]
+          - img [ref=e362]
+          - img [ref=e363]
+          - img [ref=e364]
+          - img [ref=e365]
+          - img [ref=e366]
+          - img [ref=e367]
+          - img [ref=e368]
+          - img [ref=e369]
+          - img [ref=e370]
+          - img [ref=e371]
+        - generic [ref=e372]:
+          - img [ref=e373]
+          - img [ref=e374]
+          - img [ref=e375]
+          - img [ref=e376]
+          - img [ref=e377]
+          - img [ref=e378]
+          - img [ref=e379]
+          - img [ref=e380]
+          - img [ref=e381]
+          - img [ref=e382]
+        - generic [ref=e383]:
+          - img [ref=e384]
+          - img [ref=e385]
+          - img [ref=e386]
+          - img [ref=e387]
+          - img [ref=e388]
+          - img [ref=e389]
+          - img [ref=e390]
+          - img [ref=e391]
+          - img [ref=e392]
+    - generic [ref=e397]:
+      - heading "Want to learn more about how i2 can enhance your strategic decisions?" [level=3] [ref=e399]
+      - button "Get Started" [ref=e401] [cursor=pointer]:
+        - generic [ref=e402]: Get Started
+        - img [ref=e403]
+      - img [ref=e406]
+      - img [ref=e409]
+      - img [ref=e412]
+      - img [ref=e415]
+      - img [ref=e418]
+      - img [ref=e421]
+      - img [ref=e424]
+    - generic [ref=e428]:
+      - generic [ref=e432]:
+        - generic [ref=e433]:
+          - img [ref=e434]
+          - paragraph [ref=e435]: We empower to revolutionize decision making, enabling you to confidently and precisely navigate challenges.
+        - generic [ref=e437]:
+          - heading "Quick Link" [level=3] [ref=e438]
+          - generic [ref=e439]:
+            - paragraph [ref=e440] [cursor=pointer]: Who We Are
+            - paragraph [ref=e441] [cursor=pointer]: Strategic Framework
+            - paragraph [ref=e442] [cursor=pointer]: Product
+            - paragraph [ref=e443] [cursor=pointer]: i2 Academy
+        - generic [ref=e445]:
+          - heading "Company" [level=3] [ref=e446]
+          - generic [ref=e447]:
+            - paragraph [ref=e448] [cursor=pointer]: Careers
+            - paragraph [ref=e449] [cursor=pointer]: Terms Of Service
+        - generic [ref=e451]:
+          - heading "Contact Us" [level=3] [ref=e452]
+          - generic [ref=e453]:
+            - generic [ref=e454]:
+              - img [ref=e455]
+              - paragraph [ref=e456]: 021-5270669
+            - generic [ref=e457]:
+              - img [ref=e458]
+              - paragraph [ref=e459]: admin@indonesiaindicator.com
+            - generic [ref=e460]:
+              - img [ref=e461]
+              - paragraph [ref=e462]: Jalan Permata Berlian AA No. 5, Grogol Utara, Kebayoran Lama, Jakarta Selatan, Indonesia
+      - generic [ref=e465]:
+        - paragraph [ref=e466]: © 2024 Indonesia Indicator. All rights reserved.
+        - generic [ref=e468]:
+          - link [ref=e469] [cursor=pointer]:
+            - /url: https://www.instagram.com/indonesia.indicator/
+            - img [ref=e470]
+          - link [ref=e474] [cursor=pointer]:
+            - /url: https://x.com/id_indicator
+            - img [ref=e475]
+          - link [ref=e477] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/indonesia-indicator/
+            - img [ref=e478]
+  - alert [ref=e480]
+```

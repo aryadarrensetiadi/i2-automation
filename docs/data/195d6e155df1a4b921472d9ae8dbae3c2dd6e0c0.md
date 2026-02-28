@@ -1,0 +1,173 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e6]:
+      - navigation [ref=e10]:
+        - generic [ref=e11]:
+          - img "Logo" [ref=e13] [cursor=pointer]
+          - generic [ref=e14]:
+            - list [ref=e15]:
+              - listitem [ref=e16]:
+                - generic [ref=e17] [cursor=pointer]: Who We Are
+              - listitem [ref=e18]:
+                - button "Strategic Framework" [ref=e19] [cursor=pointer]
+              - listitem [ref=e20]:
+                - generic [ref=e21] [cursor=pointer]: Product
+              - listitem [ref=e22]:
+                - generic [ref=e23] [cursor=pointer]: Careers
+              - listitem [ref=e24]:
+                - generic [ref=e25] [cursor=pointer]: News
+              - listitem [ref=e26]:
+                - generic [ref=e27] [cursor=pointer]: i2 Academy
+            - generic [ref=e28]:
+              - button [ref=e29] [cursor=pointer]:
+                - img [ref=e30]
+              - generic [ref=e32]:
+                - text: "|"
+                - link "English" [ref=e33] [cursor=pointer]:
+                  - /url: "#"
+      - generic [ref=e35]:
+        - heading "Strategic Framework" [level=1] [ref=e36]
+        - paragraph [ref=e37]: By integrating insights across various sectors, we equip decision-makers with the tools they need to anticipate challenges and seize opportunities with confidence.
+    - generic [ref=e41]:
+      - generic [ref=e42]:
+        - heading "Strategic Intelligence Framework" [level=2] [ref=e43]
+        - paragraph [ref=e44]: With Generative AI, Indonesia Indicator (i2) pushes the boundaries of creativity, generating strategic solutions for your challenges.
+      - generic [ref=e45]:
+        - generic [ref=e47]:
+          - img [ref=e48]
+          - generic [ref=e49]:
+            - heading "Geostrategic Intelligence" [level=4] [ref=e50]
+            - paragraph [ref=e51]: Provides information and analysis related to global geographic and political strategies, including geopolitical alliances, military capabilities, territorial disputes, and diplomatic relationships.
+          - generic [ref=e52]:
+            - button "Learn More" [ref=e53] [cursor=pointer]
+            - img [ref=e54]
+        - generic [ref=e56]:
+          - img [ref=e57]
+          - generic [ref=e58]:
+            - heading "Political Intelligence" [level=4] [ref=e59]
+            - paragraph [ref=e60]: Focuses on governance and political stability, analyzing policy and regulatory changes, political parties, and election data to assess the political landscape.
+          - generic [ref=e61]:
+            - button "Learn More" [ref=e62] [cursor=pointer]
+            - img [ref=e63]
+        - generic [ref=e65]:
+          - img [ref=e66]
+          - generic [ref=e67]:
+            - heading "Security Intelligence" [level=4] [ref=e68]
+            - paragraph [ref=e69]: Offers insights into internal and external security threats, including cybersecurity, law enforcement dynamics, and crime statistics to enhance risk assessments.
+          - generic [ref=e70]:
+            - button "Learn More" [ref=e71] [cursor=pointer]
+            - img [ref=e72]
+        - generic [ref=e74]:
+          - img [ref=e75]
+          - generic [ref=e76]:
+            - heading "Economic Intelligence" [level=4] [ref=e77]
+            - paragraph [ref=e78]: Delivers macroeconomic indicators, trade and investment flows, and fiscal and monetary policies to understand broader economic trends affecting markets and industries.
+          - generic [ref=e79]:
+            - button "Learn More" [ref=e80] [cursor=pointer]
+            - img [ref=e81]
+        - generic [ref=e83]:
+          - img [ref=e84]
+          - generic [ref=e85]:
+            - heading "Financial Intelligence" [level=4] [ref=e86]
+            - paragraph [ref=e87]: Analyzes banking and financial markets, investment trends, and financial regulations to help navigate the complex financial landscape.
+          - generic [ref=e88]:
+            - button "Learn More" [ref=e89] [cursor=pointer]
+            - img [ref=e90]
+        - generic [ref=e92]:
+          - img [ref=e93]
+          - generic [ref=e94]:
+            - heading "Market Intelligence" [level=4] [ref=e95]
+            - paragraph [ref=e96]: Provides insights on market size and growth, consumer demographics and psychographics, behavior trends, and competitive analysis to inform strategic decisions.
+          - generic [ref=e97]:
+            - button "Learn More" [ref=e98] [cursor=pointer]
+            - img [ref=e99]
+        - generic [ref=e101]:
+          - img [ref=e102]
+          - generic [ref=e103]:
+            - heading "Demographic Intelligence" [level=4] [ref=e104]
+            - paragraph [ref=e105]: Analyzes population dynamics, migration trends, labor market conditions, and cultural shifts to support long-term strategic planning.
+          - generic [ref=e106]:
+            - button "Learn More" [ref=e107] [cursor=pointer]
+            - img [ref=e108]
+        - generic [ref=e110]:
+          - img [ref=e111]
+          - generic [ref=e112]:
+            - heading "Territorial Intelligence" [level=4] [ref=e113]
+            - paragraph [ref=e114]: Assesses land use, urban planning, infrastructure development, resource exploration, and climate change indicators, helping manage environmental and resource-based challenges.
+          - generic [ref=e115]:
+            - button "Learn More" [ref=e116] [cursor=pointer]
+            - img [ref=e117]
+        - generic [ref=e119]:
+          - img [ref=e120]
+          - generic [ref=e121]:
+            - heading "Industrial Intelligence" [level=4] [ref=e122]
+            - paragraph [ref=e123]: Focuses on manufacturing indices, supply chain logistics, industrial output, and operational efficiency to optimize production and logistics strategies.
+          - generic [ref=e124]:
+            - button "Learn More" [ref=e125] [cursor=pointer]
+            - img [ref=e126]
+        - generic [ref=e128]:
+          - img [ref=e129]
+          - generic [ref=e130]:
+            - heading "Media Intelligence" [level=4] [ref=e131]
+            - paragraph [ref=e132]: Media intelligence system is designed to monitor, analyze, and interpret news and social media content in real-time. By leveraging data science and generative AI.
+          - generic [ref=e133]:
+            - button "Learn More" [ref=e134] [cursor=pointer]
+            - img [ref=e135]
+    - generic [ref=e140]:
+      - heading "Want to learn more about how i2 can enhance your strategic decisions?" [level=3] [ref=e142]
+      - button "Get Started" [ref=e144] [cursor=pointer]:
+        - generic [ref=e145]: Get Started
+        - img [ref=e146]
+      - img [ref=e149]
+      - img [ref=e152]
+      - img [ref=e155]
+      - img [ref=e158]
+      - img [ref=e161]
+      - img [ref=e164]
+      - img [ref=e167]
+    - generic [ref=e171]:
+      - generic [ref=e175]:
+        - generic [ref=e176]:
+          - img [ref=e178] [cursor=pointer]
+          - paragraph [ref=e179]: We empower to revolutionize decision making, enabling you to confidently and precisely navigate challenges.
+        - generic [ref=e181]:
+          - heading "Quick Link" [level=3] [ref=e182]
+          - generic [ref=e183]:
+            - paragraph [ref=e184] [cursor=pointer]: Who We Are
+            - paragraph [ref=e185] [cursor=pointer]: Strategic Framework
+            - paragraph [ref=e186] [cursor=pointer]: Product
+            - paragraph [ref=e187] [cursor=pointer]: i2 Academy
+        - generic [ref=e189]:
+          - heading "Company" [level=3] [ref=e190]
+          - generic [ref=e191]:
+            - paragraph [ref=e192] [cursor=pointer]: Careers
+            - paragraph [ref=e193] [cursor=pointer]: Terms Of Service
+        - generic [ref=e195]:
+          - heading "Contact Us" [level=3] [ref=e196]
+          - generic [ref=e197]:
+            - generic [ref=e198]:
+              - img [ref=e199]
+              - paragraph [ref=e200]: 021-5270669
+            - generic [ref=e201]:
+              - img [ref=e202]
+              - paragraph [ref=e203]: admin@indonesiaindicator.com
+            - generic [ref=e204]:
+              - img [ref=e205]
+              - paragraph [ref=e206]: Menara Sudirman Lantai 19 Lot. A Jl. Jend. Sudirman Kav 60, Jakarta Selatan, 12190Menara Sudirman Lantai 19 Lot. A Jl. Jend. Sudirman Kav 60, Jakarta Selatan, 12190
+      - generic [ref=e209]:
+        - paragraph [ref=e210]: © 2024 Indonesia Indicator. All rights reserved.
+        - generic [ref=e212]:
+          - link [ref=e213] [cursor=pointer]:
+            - /url: https://www.instagram.com/indonesia.indicator/
+            - img [ref=e214]
+          - link [ref=e218] [cursor=pointer]:
+            - /url: https://x.com/id_indicator
+            - img [ref=e219]
+          - link [ref=e221] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/indonesia-indicator/
+            - img [ref=e222]
+  - alert [ref=e224]
+```
