@@ -1,0 +1,104 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e6]:
+      - navigation [ref=e10]:
+        - generic [ref=e11]:
+          - img "Logo" [ref=e13] [cursor=pointer]
+          - generic [ref=e14]:
+            - list [ref=e15]:
+              - listitem [ref=e16]:
+                - generic [ref=e17] [cursor=pointer]: Who We Are
+              - listitem [ref=e18]:
+                - generic [ref=e19] [cursor=pointer]: Strategic Framework
+              - listitem [ref=e20]:
+                - generic [ref=e21] [cursor=pointer]: Product
+              - listitem [ref=e22]:
+                - generic [ref=e23] [cursor=pointer]: Careers
+              - listitem [ref=e24]:
+                - generic [ref=e25] [cursor=pointer]: News
+              - listitem [ref=e26]:
+                - generic [ref=e27] [cursor=pointer]: i2 Academy
+            - generic [ref=e28]:
+              - button [ref=e29] [cursor=pointer]:
+                - img [ref=e30]
+              - generic [ref=e32]:
+                - text: "|"
+                - link "English" [ref=e33] [cursor=pointer]:
+                  - /url: "#"
+      - generic [ref=e35]:
+        - heading [level=1] [ref=e36]
+        - paragraph [ref=e37]: By integrating insights across various sectors, we equip decision-makers with the tools they need to anticipate challenges and seize opportunities with confidence.
+    - generic [ref=e41]:
+      - generic [ref=e42]:
+        - paragraph [ref=e43]: We are committed to equipping the next generation with the skills, knowledge, and innovative thinking needed to thrive in an ever-evolving world. Through a combination of expert-led programs, hands-on experiences, and collaborative learning, we foster an environment where curiosity meets creativity, and ideas turn into impactful actions.
+        - paragraph [ref=e44]: i2 Academy focuses on empowering individuals to unlock their leadership potential by offering cutting-edge courses in areas such as data intelligence, strategic decision-making, and digital transformation.
+        - paragraph [ref=e45]: As part of our vibrant community, you'll be immersed in real-world challenges, guided by industry professionals, and supported by like-minded peers all driven by the shared goal of making meaningful progress.
+      - button "Join Us" [active] [ref=e46] [cursor=pointer]:
+        - generic [ref=e47]: Join Us
+        - img [ref=e48]
+    - generic [ref=e54]:
+      - generic [ref=e55]:
+        - paragraph [ref=e56]: Gallery i2 Academy
+        - generic [ref=e57] [cursor=pointer]: See All
+      - generic [ref=e58]:
+        - generic [ref=e60]:
+          - img [ref=e62]
+          - generic [ref=e63]:
+            - paragraph [ref=e65]: Universitas Padjajaran
+            - paragraph [ref=e66]: Sharing Big Data Usage on Communication Studies
+        - generic [ref=e68]:
+          - img [ref=e70]
+          - generic [ref=e71]:
+            - paragraph [ref=e73]: Universitas Islam Negeri Sunan Ampel
+            - paragraph [ref=e74]: Introducing Big Data and AI in Public Policy Transformation.
+        - generic [ref=e76]:
+          - img [ref=e78]
+          - generic [ref=e79]:
+            - paragraph [ref=e81]: Universitas Brawijaya
+            - paragraph [ref=e82]: Application of Big Data and AI in International Relations Studies
+    - generic [ref=e85]:
+      - generic [ref=e89]:
+        - generic [ref=e90]:
+          - img [ref=e91]
+          - paragraph [ref=e92]: We empower to revolutionize decision making, enabling you to confidently and precisely navigate challenges.
+        - generic [ref=e94]:
+          - heading "Quick Link" [level=3] [ref=e95]
+          - generic [ref=e96]:
+            - paragraph [ref=e97] [cursor=pointer]: Who We Are
+            - paragraph [ref=e98] [cursor=pointer]: Strategic Framework
+            - paragraph [ref=e99] [cursor=pointer]: Product
+            - paragraph [ref=e100] [cursor=pointer]: i2 Academy
+        - generic [ref=e102]:
+          - heading "Company" [level=3] [ref=e103]
+          - generic [ref=e104]:
+            - paragraph [ref=e105] [cursor=pointer]: Careers
+            - paragraph [ref=e106] [cursor=pointer]: Terms Of Service
+        - generic [ref=e108]:
+          - heading "Contact Us" [level=3] [ref=e109]
+          - generic [ref=e110]:
+            - generic [ref=e111]:
+              - img [ref=e112]
+              - paragraph [ref=e113]: 021-5270669
+            - generic [ref=e114]:
+              - img [ref=e115]
+              - paragraph [ref=e116]: admin@indonesiaindicator.com
+            - generic [ref=e117]:
+              - img [ref=e118]
+              - paragraph [ref=e119]: Menara Sudirman Lantai 19 Lot. A Jl. Jend. Sudirman Kav 60, Jakarta Selatan, 12190Menara Sudirman Lantai 19 Lot. A Jl. Jend. Sudirman Kav 60, Jakarta Selatan, 12190
+      - generic [ref=e122]:
+        - paragraph [ref=e123]: © 2024 Indonesia Indicator. All rights reserved.
+        - generic [ref=e125]:
+          - link [ref=e126] [cursor=pointer]:
+            - /url: https://www.instagram.com/indonesia.indicator/
+            - img [ref=e127]
+          - link [ref=e131] [cursor=pointer]:
+            - /url: https://x.com/id_indicator
+            - img [ref=e132]
+          - link [ref=e134] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/indonesia-indicator/
+            - img [ref=e135]
+  - alert [ref=e137]
+```
